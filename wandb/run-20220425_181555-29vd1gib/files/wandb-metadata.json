@@ -1,0 +1,18 @@
+{
+    "os": "Windows-10-10.0.17134-SP0",
+    "python": "3.8.12",
+    "heartbeatAt": "2022-04-25T10:15:58.907463",
+    "startedAt": "2022-04-25T10:15:55.921880",
+    "docker": null,
+    "gpu": "NVIDIA GeForce GTX 1060",
+    "gpu_count": 1,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "D:/Graduation_project/yolov5-5.0/train.py",
+    "codePath": "train.py",
+    "host": "YR-20190128XXVE",
+    "username": "Administrator",
+    "executable": "D:\\ANACONDA\\envs\\pytorch\\python.exe"
+}
